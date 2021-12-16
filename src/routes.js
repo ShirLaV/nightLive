@@ -1,8 +1,8 @@
-import { BarDetails } from './views/bar-details';
-
+import { BarDetails } from './views/bar-details.jsx';
+console.log('routes')
 // Routes accesible from the main navigation (in AppHeader)
 const routes = [{
-        path: '/:barId',
+        path: '/bar/:barId',
         component: BarDetails,
     },
     // {
