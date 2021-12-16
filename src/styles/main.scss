@@ -1,16 +1,19 @@
 // SETUP
 
-@import './setup/functions';
-@import './setup/mixins';
-@import './setup/typography';
-@import './setup/variables';
+@import "./setup/functions";
+@import "./setup/mixins";
+@import "./setup/typography";
+@import "./setup/variables";
 // BASICS
-@import './basics/base';
-@import './basics/helpers';
-@import './basics/layout';
-@import './basics/buttons';
+@import "./basics/base";
+@import "./basics/helpers";
+@import "./basics/layout";
+@import "./basics/buttons";
 
+//VIEWS
+@import "./views/home-page";
 
 // CMPS
-@import './components/app-header';
-
+@import "./components/app-header";
+@import "./components/bar-list";
+@import "./components/bar-preview";

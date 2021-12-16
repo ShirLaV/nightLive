@@ -5,8 +5,18 @@ export const gBars = [
     "description": "בר טעמים בשכונה",
     "location": 1.2,
     "rate": 7.9,
-    "isAveliable": false,
-    "label": "recommended"
+    "isAvailable": false,
+    "isRecommended": true,
+    "labels": [],
+    "logo": "imgUrl",
+    "imgs": ["imgUrl", "imgUrl"],
+    "phone": "555555",
+    "facebookUrl": "fafaf@facebook.com",
+    "instagramUrl": "fasfa@instagram.com",
+    "barUrl": "somebar.com",
+    "tables": [],
+    "reviews": [],
+    "sales": []
   },
   {
     "_id": "b02",
@@ -14,8 +24,18 @@ export const gBars = [
     "description": "בר שכונתי פה בבירת הנגב",
     "location": 1.6,
     "rate": 8.3,
-    "isAveliable": false,
-    "label": "recommended"
+    "isAvailable": false,
+    "isRecommended": true,
+    "labels": [],
+    "logo": "imgUrl",
+    "imgs": ["imgUrl", "imgUrl"],
+    "phone": "555555",
+    "facebookUrl": "fafaf@facebook.com",
+    "instagramUrl": "fasfa@instagram.com",
+    "barUrl": "somebar.com",
+    "tables": [],
+    "reviews": [],
+    "sales": []
   },
   {
     "_id": "b03",
@@ -23,8 +43,18 @@ export const gBars = [
     "description": "בר שכונתי שעושה תרבות",
     "location": 2.3,
     "rate": 8.5,
-    "isAveliable": true,
-    "label": "recommended"
+    "isAvailable": true,
+    "isRecommended": true,
+    "labels": [],
+    "logo": "imgUrl",
+    "imgs": ["imgUrl", "imgUrl"],
+    "phone": "555555",
+    "facebookUrl": "fafaf@facebook.com",
+    "instagramUrl": "fasfa@instagram.com",
+    "barUrl": "somebar.com",
+    "tables": [],
+    "reviews": [],
+    "sales": []
   },
   {
     "_id": "b04",
@@ -32,8 +62,17 @@ export const gBars = [
     "description": "בסגנון אירופאי עם גוון ישראלי",
     "location": 0.2,
     "rate": 8.0,
-    "isAveliable": false,
-    "label": "around"
+    "isAvailable": false,
+    "labels": [],
+    "logo": "imgUrl",
+    "imgs": ["imgUrl", "imgUrl"],
+    "phone": "555555",
+    "facebookUrl": "fafaf@facebook.com",
+    "instagramUrl": "fasfa@instagram.com",
+    "barUrl": "somebar.com",
+    "tables": [],
+    "reviews": [],
+    "sales": []
   },
   {
     "_id": "b05",
@@ -41,8 +80,17 @@ export const gBars = [
     "description": "נרגילה בר והרבה יותר",
     "location": 0.8,
     "rate": 6.5,
-    "isAveliable": true,
-    "label": "around"
+    "isAvailable": true,
+    "labels": [],
+    "logo": "imgUrl",
+    "imgs": ["imgUrl", "imgUrl"],
+    "phone": "555555",
+    "facebookUrl": "fafaf@facebook.com",
+    "instagramUrl": "fasfa@instagram.com",
+    "barUrl": "somebar.com",
+    "tables": [],
+    "reviews": [],
+    "sales": []
   },
   {
     "_id": "b06",
@@ -50,8 +98,17 @@ export const gBars = [
     "description": "מנצ'ילה שאנטי בר",
     "location": 0.8,
     "rate": 8.3,
-    "isAveliable": true,
-    "label": "around"
+    "isAvailable": true,
+    "labels": [],
+    "logo": "imgUrl",
+    "imgs": ["imgUrl", "imgUrl"],
+    "phone": "555555",
+    "facebookUrl": "fafaf@facebook.com",
+    "instagramUrl": "fasfa@instagram.com",
+    "barUrl": "somebar.com",
+    "tables": [],
+    "reviews": [],
+    "sales": []
   },
   {
     "_id": "b07",
@@ -59,7 +116,16 @@ export const gBars = [
     "description": "הבר הכי שמח בעיר",
     "location": 1.0,
     "rate": 7.8,
-    "isAveliable": false,
-    "label": "around"
+    "isAvailable": false,
+    "labels": [],
+    "logo": "imgUrl",
+    "imgs": ["imgUrl", "imgUrl"],
+    "phone": "555555",
+    "facebookUrl": "fafaf@facebook.com",
+    "instagramUrl": "fasfa@instagram.com",
+    "barUrl": "somebar.com",
+    "tables": [],
+    "reviews": [],
+    "sales": []
   }
 ]
