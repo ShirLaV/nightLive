@@ -18,9 +18,7 @@ export const BarDetails = () => {
     return (
         <section className="bar-details">
             <h1>Bar details</h1>
-            {/* {bar && <pre>
-                {bar}
-            </pre>} */}
+            {/* <BarHero /> */}
         </section>
     )
 }
