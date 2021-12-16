@@ -1,6 +1,6 @@
-[
+export const gBars = [
   {
-    "id": "b01",
+    "_id": "b01",
     "name": "Mileva",
     "description": "בר טעמים בשכונה",
     "location": 1.2,
@@ -9,7 +9,7 @@
     "label": "recommended"
   },
   {
-    "id": "b02",
+    "_id": "b02",
     "name": "Bengi",
     "description": "בר שכונתי פה בבירת הנגב",
     "location": 1.6,
@@ -18,7 +18,7 @@
     "label": "recommended"
   },
   {
-    "id": "b03",
+    "_id": "b03",
     "name": "ביאליק 26",
     "description": "בר שכונתי שעושה תרבות",
     "location": 2.3,
@@ -27,7 +27,7 @@
     "label": "recommended"
   },
   {
-    "id": "b04",
+    "_id": "b04",
     "name": "Coca Brewpub",
     "description": "בסגנון אירופאי עם גוון ישראלי",
     "location": 0.2,
@@ -36,7 +36,7 @@
     "label": "around"
   },
   {
-    "id": "b05",
+    "_id": "b05",
     "name": "ארלוזרוב 54",
     "description": "נרגילה בר והרבה יותר",
     "location": 0.8,
@@ -45,7 +45,7 @@
     "label": "around"
   },
   {
-    "id": "b06",
+    "_id": "b06",
     "name": "Munchilla",
     "description": "מנצ'ילה שאנטי בר",
     "location": 0.8,
@@ -54,7 +54,7 @@
     "label": "around"
   },
   {
-    "id": "b07",
+    "_id": "b07",
     "name": "רכבת הצפון",
     "description": "הבר הכי שמח בעיר",
     "location": 1.0,

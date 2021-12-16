@@ -1,0 +1,28 @@
+.app-header {
+    height: 100px;
+    background-color: #181818;
+    color: white;
+    padding: 10px 20px;
+
+    span {
+        height: 100%;
+    }
+
+    
+    .logo-container {
+        height: 100%;
+        width: 90px;
+        justify-self: center;
+    }
+
+    .left-icons{
+        gap: 30px;
+    }
+
+    .right-icon {
+        width: 110px;
+        display: flex;
+        justify-content: end;
+    }
+    }
+
