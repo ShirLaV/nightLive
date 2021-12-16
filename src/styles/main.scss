@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+.app {
+    max-width: 600px;
+    margin: auto;
+    background-color: #333333;
+    min-height: 100vh;
+}
+
+.app-header {
+    height: 100px;
+    background-color: #181818;
+    color: white;
+    padding: 10px 20px;
+
+    span {
+        height: 100%;
+    }
+
+    
+    .logo-container {
+        height: 100%;
+        width: 90px;
+        justify-self: center;
+    }
+
+    .left-icons{
+        gap: 30px;
+    }
+
+    .right-icon {
+        width: 110px;
+        display: flex;
+        justify-content: end;
+    }
+    }
+
+
+// HELPERS
+
+.flex {
+    display: flex;
+}
+
+.flex.space-between {
+    justify-content: space-between;
+}
