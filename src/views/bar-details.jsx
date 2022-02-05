@@ -1,7 +1,9 @@
 import React, { useEffect, useState } from 'react'
 import { useParams } from 'react-router'
 
-import { barService } from '../services/bar-service'
+import { BarHero } from '../cmps/bar-hero.jsx'
+
+import { barService } from '../services/bar-service.js'
 
 
 export const BarDetails = () => {
@@ -14,11 +16,10 @@ export const BarDetails = () => {
         console.log('bar', bar)
         setBar(bar)
     }, [])
-
+    if (!bar) return <></>
     return (
         <section className="bar-details">
-            <h1>Bar details</h1>
-            {/* <BarHero /> */}
+            <BarHero bar={bar}/>
         </section>
     )
 }

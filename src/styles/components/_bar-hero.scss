@@ -1,0 +1,16 @@
+.bar-hero {
+  height: 400px;
+  color: white;
+  gap: 5px;
+  background-size: cover;
+  .logo {
+      height: 100px;
+      width: 100px;
+      border-radius: 50%;
+      background-size: cover;
+  }
+  .bar-title{
+      font-size: 30px;
+      font-weight: 600;
+  }
+}
